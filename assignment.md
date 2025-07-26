@@ -96,7 +96,7 @@ series = pd.Series(['apple', 'banana', 'cherry'])
 Answer:
 
 ```python
-
+series = pd.Series(['apple', 'banana', 'cherry'])
 uppercase_series = series.str.upper()
 
 print(uppercase_series)
